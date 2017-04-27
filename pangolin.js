@@ -1,46 +1,5 @@
 var pangolins = 
-[{
-    "id": "Indian Pangolin", 
-    "idd":"IndianPangolin",
-    "description": "The Indian pangolin is the largest of all the Asian pangolin species, and can grow to be 1.2m long (nose to tail).This species is largely terrestrial, and forages primarily on the ground for ants, termites and occasionally other invertebrates. Interestingly, where this species occurs in Sri Lanka it inhabits tropical rainforest, where it is believed to lead a more arboreal lifestyle - using its claws and prehensile tail to aid climbing. This species is native to India, Nepal, Pakistan and Sri Lanka.",
-    "status": "Endangered",
-    "image":"https://www.dropbox.com/s/n5dxzw06ay4x0vx/indianPangolin.jpg?dl=1",
-    "data": [
-        {
-            "threat": "Local Hunting / Domestic Trade", 
-            "note":"Meat + Scales",
-            "count": 7
-        }, 
-        {
-            "threat": "International Trade", 
-            "count": 9
-        }, 
-        {
-            "threat": "Habitat Loss", 
-            "count": 6
-        }, 
-        {
-            "threat": "Pesticide use", 
-            "count": 5
-        }, 
-        {
-            "threat": "Deforestation", 
-            "count": 0
-        }, 
-        {
-            "threat": "Road Kill", 
-            "count": 0
-        },
-        {
-            "threat": "Habitat degradation", 
-            "count": 0
-        },
-        {
-            "threat": "Electrocution", 
-            "count": 0
-        }
-    ]
-},
+[
 {
     "id": "Philippine Pangolin", 
     "idd":"PhilippinePangolin",
@@ -69,6 +28,48 @@ var pangolins =
         {
             "threat": "Deforestation", 
             "count": 4
+        }, 
+        {
+            "threat": "Road Kill", 
+            "count": 0
+        },
+        {
+            "threat": "Habitat degradation", 
+            "count": 0
+        },
+        {
+            "threat": "Electrocution", 
+            "count": 0
+        }
+    ]
+},
+{
+    "id": "Indian Pangolin", 
+    "idd":"IndianPangolin",
+    "description": "The Indian pangolin is the largest of all the Asian pangolin species, and can grow to be 1.2m long (nose to tail).This species is largely terrestrial, and forages primarily on the ground for ants, termites and occasionally other invertebrates. Interestingly, where this species occurs in Sri Lanka it inhabits tropical rainforest, where it is believed to lead a more arboreal lifestyle - using its claws and prehensile tail to aid climbing. This species is native to India, Nepal, Pakistan and Sri Lanka.",
+    "status": "Endangered",
+    "image":"https://www.dropbox.com/s/n5dxzw06ay4x0vx/indianPangolin.jpg?dl=1",
+    "data": [
+        {
+            "threat": "Local Hunting / Domestic Trade", 
+            "note":"Meat + Scales",
+            "count": 7
+        }, 
+        {
+            "threat": "International Trade", 
+            "count": 9
+        }, 
+        {
+            "threat": "Habitat Loss", 
+            "count": 6
+        }, 
+        {
+            "threat": "Pesticide use", 
+            "count": 5
+        }, 
+        {
+            "threat": "Deforestation", 
+            "count": 0
         }, 
         {
             "threat": "Road Kill", 
